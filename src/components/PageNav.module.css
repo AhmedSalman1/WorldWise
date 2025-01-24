@@ -1,0 +1,27 @@
+/* .nav {
+  background-color: aqua;
+}
+
+.nav ul {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
+
+.nav :global(.active) {
+  background-color: green;
+} */
+
+.nav {
+  background-color: aqua;
+
+  & ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+  }
+
+  :global(.active) {
+    background-color: green;
+  }
+}
