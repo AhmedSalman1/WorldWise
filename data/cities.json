@@ -59,6 +59,18 @@
         "lng": "-0.087890625"
       },
       "id": 98443199
+    },
+    {
+      "cityName": "Al Mansurah",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "Sun Jan 26 2025 09:17:16 GMT+0200 (Eastern European Standard Time)",
+      "notes": "Amazing!",
+      "position": {
+        "lat": "31.031754878046105",
+        "lng": "31.385192871093754"
+      },
+      "id": 98443200
     }
   ]
 }
