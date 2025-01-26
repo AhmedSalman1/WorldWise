@@ -35,6 +35,30 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Giza",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "Sun Jan 26 2025 07:10:22 GMT+0200 (Eastern European Standard Time)",
+      "notes": "Amazing!",
+      "position": {
+        "lat": "29.916852233070173",
+        "lng": "31.267089843750004"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "Sun Jan 26 2025 07:13:57 GMT+0200 (Eastern European Standard Time)",
+      "notes": "Wow",
+      "position": {
+        "lat": "51.39920565355378",
+        "lng": "-0.087890625"
+      },
+      "id": 98443199
     }
   ]
 }
