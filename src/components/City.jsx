@@ -19,7 +19,7 @@ function City() {
 
   useEffect(() => {
     getCity(id)
-  }, [id]) //TODO ? Why are you don't use gitCity here?
+  }, [id, getCity])
 
   const { cityName, emoji, date, notes } = currentCity
 
